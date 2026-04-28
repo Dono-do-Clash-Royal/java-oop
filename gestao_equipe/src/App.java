@@ -5,6 +5,7 @@ public class App {
         carro.setNumeroRodas(4);
         carro.setTipoViatura("Carro Desportivo");
         carro.setVelocidadeMaxima(120);
+        carro.setmatricula("76-XX-34");
 
 
         carro.mostrarInfo();
