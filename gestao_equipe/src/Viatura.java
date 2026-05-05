@@ -44,7 +44,7 @@ public class Viatura {
         System.out.println("Vou mostrar as informações do carro =?=");
         System.out.println("Tipo do Veiculo: " + this.getTipoViatura());
         System.out.println("Número de Rodas: " + this.getNumeroRodas());
-        System.out.println("Tipo do Veiculo: " + this.getVelocidadeMaxima());   
+        System.out.println("Velocidade Máxima: " + this.getVelocidadeMaxima());   
         System.out.println("número da matricula: " + this.getmatricula());     
     }
 }
